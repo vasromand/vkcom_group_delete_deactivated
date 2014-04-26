@@ -5,11 +5,14 @@ Delete deactivated users from vk.com groups | Удаляет заблокиро�
 
 ---
 It runs in javascript console of browser (at least as I know).
+
 It executes by 2 stages (parts): 
 - Jquery script connects;
 - Main functions executes.
+- 
 Выполняется в консоли javascript браузера, по крайней мере, это пока единственный доступный мне метод.
-выполнять нужно в 2 этапа (parts):
+
+Выполнять нужно в 2 этапа (parts):
 - Подключение Jquery;
 - Основной функционал.
 
