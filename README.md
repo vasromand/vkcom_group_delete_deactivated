@@ -13,3 +13,4 @@ It executes by 2 stages (parts):
 выполнять нужно в 2 этапа (parts):
 - Подключение Jquery;
 - Основной функционал.
+
